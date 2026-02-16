@@ -9,11 +9,20 @@ Outside of campus activities, Kyle is a board game enthusiast, particularly surr
 ## Portfolio Items:
 ### Multiple Linear Regression
 <https://kyle-maher.github.io/Kyle-Maher/portfolio/STAT442/Diamonds.html>
+
 <https://kyle-maher.github.io/Kyle-Maher/portfolio/STAT442/Diamonds_2.html>
 
-## Classification
+### Classification
 <https://kyle-maher.github.io/Kyle-Maher/portfolio/STAT442/Wine.html>
+
 <https://kyle-maher.github.io/Kyle-Maher/portfolio/STAT442/Wine_2.html>
+
+### R Shiny Apps
+<https://kylemaher.shinyapps.io/KyleMaher_Assignment9/>
+
+<https://kylemaher.shinyapps.io/KyleMaher_Assignment10/>
+
+<https://kylemaher.shinyapps.io/TIBS/> (relod after error - fix in progress)
 
 ### Resume
 <https://kyle-maher.github.io/Kyle-Maher/portfolio/Resume/Resume.pdf>
