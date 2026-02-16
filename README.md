@@ -1,16 +1,19 @@
-## Hi there 👋
+## Welcome! 👋
+### Who is this guy?
+Kyle Maher is a senior pursuing a Mathematics and Data Science double major at South Dakota State University. After graduation he plans to work towards a role as a business analyst or data engineer. His preferred coding stack currently includes R, Visual Studio Code, and GitHub. 
 
-<!--
-**Kyle-Maher/Kyle-Maher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+While at SDSU Kyle has always been extremely involved. He began by joining the Pride of Dakotas Marching Band, Data Science Club, Math Club, Chess Club, Ultimate Club, and Jazz 1. Additionally, in October of his freshman year Kyle founded Spike Club, a student organization dedicated to bringing individuals together to play Spikeball. He has continued to become increasingly involved on campus now serving as the president of Spike Club, Data Science Club, and the Residence Hall Association.
 
-Here are some ideas to get you started:
+Outside of campus activities, Kyle is a board game enthusiast, particularly surrounding Twilight Imperium Fourth Edition and its associated expansions. Additionally, he is a fan of modern epic fantasy and has recently enjoyed reading The Stormlight Archives by Brandon Sanderson. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Portfolio Items:
+### Multiple Linear Regression
+<https://kyle-maher.github.io/Kyle-Maher/portfolio/STAT442/Diamonds.html>
+<https://kyle-maher.github.io/Kyle-Maher/portfolio/STAT442/Diamonds_2.html>
+
+## Classification
+<https://kyle-maher.github.io/Kyle-Maher/portfolio/STAT442/Wine.html>
+<https://kyle-maher.github.io/Kyle-Maher/portfolio/STAT442/Wine_2.html>
+
+### Resume
+<https://kyle-maher.github.io/Kyle-Maher/portfolio/Resume/Resume.pdf>
