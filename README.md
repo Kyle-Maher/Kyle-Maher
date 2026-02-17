@@ -17,12 +17,17 @@ Outside of campus activities, Kyle is a board game enthusiast, particularly surr
 
 <https://kyle-maher.github.io/Kyle-Maher/portfolio/STAT442/Wine_2.html>
 
+### HTML Games
+<https://kyle-maher.github.io/oregon-trail/src/oregon-trail.html> (Research Group Work - Created with AI Assistance)
+
+<https://kyle-maher.github.io/lights-out/src/lights-out.html> (Created with AI Assistance)
+
 ### R Shiny Apps
 <https://kylemaher.shinyapps.io/KyleMaher_Assignment9/>
 
 <https://kylemaher.shinyapps.io/KyleMaher_Assignment10/>
 
-<https://kylemaher.shinyapps.io/TIBS/> (relod after error - fix in progress)
+<https://kylemaher.shinyapps.io/TIBS/> (Reload after error - fix in progress)
 
 ### Resume
 <https://kyle-maher.github.io/Kyle-Maher/portfolio/Resume/Resume.pdf>
