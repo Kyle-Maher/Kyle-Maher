@@ -22,12 +22,13 @@ Outside of campus activities, Kyle is a board game enthusiast, particularly surr
 
 <https://kyle-maher.github.io/lights-out/src/lights-out.html> (Created with AI Assistance)
 
+### Web Games
+<https://kyle-maher.github.io/twilight-imperium/> (Published with AI Assistance)
+
 ### R Shiny Apps
 <https://kylemaher.shinyapps.io/KyleMaher_Assignment9/>
 
 <https://kylemaher.shinyapps.io/KyleMaher_Assignment10/>
-
-<https://kylemaher.shinyapps.io/TIBS/> (Reload after error - fix in progress)
 
 ### Resume
 <https://kyle-maher.github.io/Kyle-Maher/portfolio/Resume/Resume.pdf>
