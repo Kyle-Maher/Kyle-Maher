@@ -4,7 +4,7 @@
 
 Strong internship experience with SQL and PowerBI. Works regularly with R while completing occasional projects in Python. Interested in Data Engineering and Data Analytics, currently developing statistical skills for Data Science applications. Comfortable with complexity and uncertainty. Remains composed in stressful situations. Is detail oriented and punctual. 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-kyle--maher-blue?style=flat&logo=linkedin)](https://linkedin.com/in/kyle-maher-9b58b5298)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kyle--maher-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kyle-maher-profile/)
 [![Email](https://img.shields.io/badge/Email-kyle.maher%40jacks.sdstate.edu-red?style=flat&logo=gmail)](mailto:kyle.maher@jacks.sdstate.edu)
 
 ---
