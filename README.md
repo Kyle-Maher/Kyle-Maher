@@ -17,6 +17,14 @@ Strong internship experience with SQL and PowerBI. Works regularly with R while 
 
 ## Projects
 
+### Web Applications
+
+| Project | Description |
+| ------- | ----------- |
+| [TIBS](https://kyle-maher.github.io/twilight-imperium/)                         | Battle simulator for combat in Twilight Imperium Fourth Edition |
+| [Oregon Trail](https://kyle-maher.github.io/oregon-trail/src/oregon-trail.html) | Oregon Trail game built to experiment with Claude |
+| [Lights Out](https://kyle-maher.github.io/lights-out/src/lights-out.html)       | Puzzle game built with HTML |
+
 ### Statistical Analysis
 
 | Project | Description |
@@ -25,6 +33,16 @@ Strong internship experience with SQL and PowerBI. Works regularly with R while 
 | [Diamond Price Prediction II](https://kyle-maher.github.io/Kyle-Maher/portfolio/STAT442/Diamonds_2.html) | Multiple Linear Regression model predicting diamond price |
 | [Wine Classification](https://kyle-maher.github.io/Kyle-Maher/portfolio/STAT442/Wine.html)               | PCA and Exploratory Data Analysis of wine data |
 | [Wine Classification II](https://kyle-maher.github.io/Kyle-Maher/portfolio/STAT442/Wine_2.html)          | Classification utilizing a variety of models |
+| [STAT 101 Midterm](https://kyle-maher.github.io/Kyle-Maher/portfolio/STAT101/Midterm.pdf)                | Multiple Linear Regression predicting revenue for a hotel chain |
+| [STAT 101 Final](https://kyle-maher.github.io/Kyle-Maher/portfolio/STAT101/Final.pdf)                    | Clustering, Text Analysis, and Ethics |
+
+### Time Series Models
+
+| Project | Description |
+| ------- | ----------- |
+| [STAT 560 Problem Set 2](https://kyle-maher.github.io/Kyle-Maher/portfolio/STAT560/ProblemSet2.pdf) | Basic Time Series Models and Model Diagnostics in R |
+| [STAT 560 Problem Set 3](https://kyle-maher.github.io/Kyle-Maher/portfolio/STAT560/ProblemSet3.pdf) | Decomposition Time Series Model in R |
+| [STAT 560 Problem Set 6](https://kyle-maher.github.io/Kyle-Maher/portfolio/STAT560/ProblemSet6.pdf) | Dynamic Harmonic Regression and Neural Network Time Series Models in R |
 
 ### R Shiny Apps
 
@@ -33,10 +51,13 @@ Strong internship experience with SQL and PowerBI. Works regularly with R while 
 | [STAT 442 Assignment 9](https://kylemaher.shinyapps.io/KyleMaher_Assignment9/)   | Automotive Vehicle Crashes Resulting in Fatalities Exploratory Data Analysis tool |
 | [STAT 442 Assignment 10](https://kylemaher.shinyapps.io/KyleMaher_Assignment10/) | Automotive Vehicle Crashes Resulting in Fatalities represented using a fatality tree |
 
-### Web Applications
+### Capstone
 
 | Project | Description |
 | ------- | ----------- |
-| [TIBS](https://kyle-maher.github.io/twilight-imperium/)                         | Battle simulator for combat in Twilight Imperium Fourth Edition |
-| [Oregon Trail](https://kyle-maher.github.io/oregon-trail/src/oregon-trail.html) | Oregon Trail game built to experiment with Claude |
-| [Lights Out](https://kyle-maher.github.io/lights-out/src/lights-out.html)       | Puzzle game built with HTML |
+| [Weird Dice Paper](https://kyle-maher.github.io/Kyle-Maher/portfolio/MATH301/CapstonePaper.pdf) | Junior Capstone Paper on dice a nonstandard pair of dice with the same probability distribution as two regular dice |
+| [Weird Dice Poster](https://kyle-maher.github.io/Kyle-Maher/portfolio/MATH301/CapstonePaper.pdf) | Junior Capstone Poster |
+
+
+
+
