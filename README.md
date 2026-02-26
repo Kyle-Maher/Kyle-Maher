@@ -2,7 +2,7 @@
 
 **Data Science & Mathematics** | South Dakota State University '26
 
-Strong internship experience with SQL and PowerBI. Works regularly with R while completing occasional projects in Python. Interested in Data Engineering and Data Analytics, currently developing statistical skills for Data Science applications. Comfortable with complexity and uncertainty. Remains composed in stressful situations. Is detail oriented and punctual. 
+Strong internship experience with SQL and PowerBI. Works regularly with R while completing occasional projects in Python. Is interested in Data Engineering and Data Analytics roles. Is comfortable with complexity and uncertainty. Remains composed in stressful situations. Is detail oriented and punctual. 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kyle--maher-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kyle-maher-profile/)
 [![Email](https://img.shields.io/badge/Email-kyle.maher%40jacks.sdstate.edu-red?style=flat&logo=gmail)](mailto:kyle.maher@jacks.sdstate.edu)
@@ -11,7 +11,7 @@ Strong internship experience with SQL and PowerBI. Works regularly with R while 
 
 ## Resume
 
-[View my resume (PDF)](https://kyle-maher.github.io/Kyle-Maher/portfolio/Resume/Resume.pdf)
+[View Resume (PDF)](https://kyle-maher.github.io/Kyle-Maher/portfolio/Resume/Resume.pdf)
 
 ---
 
@@ -36,7 +36,7 @@ Strong internship experience with SQL and PowerBI. Works regularly with R while 
 | [STAT 101 Midterm](https://kyle-maher.github.io/Kyle-Maher/portfolio/STAT101/Midterm.pdf)                | Multiple Linear Regression predicting revenue for a hotel chain |
 | [STAT 101 Final](https://kyle-maher.github.io/Kyle-Maher/portfolio/STAT101/Final.pdf)                    | Clustering, Text Analysis, and Ethics |
 
-### Time Series Models
+### Time Series Modeling
 
 | Project | Description |
 | ------- | ----------- |
@@ -51,7 +51,7 @@ Strong internship experience with SQL and PowerBI. Works regularly with R while 
 | [STAT 442 Assignment 9](https://kylemaher.shinyapps.io/KyleMaher_Assignment9/)   | Automotive Vehicle Crashes Resulting in Fatalities Exploratory Data Analysis tool |
 | [STAT 442 Assignment 10](https://kylemaher.shinyapps.io/KyleMaher_Assignment10/) | Automotive Vehicle Crashes Resulting in Fatalities represented using a fatality tree |
 
-### Capstone
+### Junior Capstone
 
 | Project | Description |
 | ------- | ----------- |
