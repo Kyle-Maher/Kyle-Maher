@@ -21,6 +21,7 @@ Strong internship experience with SQL and PowerBI. Works regularly with R while 
 
 | Project | Description |
 | ------- | ----------- |
+| [TIBS](https://kyle-maher.github.io/typing-master/)                             | Tool to improve typing and spelling skills |
 | [TIBS](https://kyle-maher.github.io/twilight-imperium/)                         | Battle simulator for combat in Twilight Imperium Fourth Edition |
 | [Oregon Trail](https://kyle-maher.github.io/oregon-trail/src/oregon-trail.html) | Oregon Trail game built to experiment with Claude |
 | [Lights Out](https://kyle-maher.github.io/lights-out/src/lights-out.html)       | Puzzle game built with HTML |
