@@ -57,4 +57,4 @@ Strong internship experience with SQL and PowerBI. Works regularly with R while 
 | Project | Description |
 | ------- | ----------- |
 | [Weird Dice Paper](https://kyle-maher.github.io/Kyle-Maher/portfolio/MATH301/CapstonePaper.pdf) | Mathematics paper deriving a unique nonstandard pair of dice with the same probability distribution as two regular dice |
-| [Weird Dice Poster](https://kyle-maher.github.io/Kyle-Maher/portfolio/MATH301/CapstonePaper.pdf) | Companion Poster for the Weird Dice Paper |
+| [Weird Dice Poster](https://kyle-maher.github.io/Kyle-Maher/portfolio/MATH301/CapstonePoster.pdf) | Companion Poster for the Weird Dice Paper |
